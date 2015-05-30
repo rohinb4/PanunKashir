@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="1">
+
+    <ScrollView
+        android:id="@+id/scrollView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/tvtemple1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Shailaputri is one of many names of goddess Parvati. She is called Shail-Bala or Shail-Putri because she was born as Himalaya's Daughter. Himalaya, being a mountain (Parvat or Shail), She is called Parvati or Shail-Putri. Navratra's first day is devoted to Mata Shailputri. She rides on Vrash (Bull), she has Shool (Trident) in one of her hands, there is half-moon on her crown, and she is beneficial for whatever one wishes.]
+After the self-immolation as Goddess Sati, Goddess Parvati took birth as the daughter of Lord Himalaya. In Sanskrit Shail means the mountain and due to which Goddess was known as Shailputri, the daughter of the mountain.
+Goddess Shailputri is worshipped on the first day of Navratra’s.
+It is believed that the Moon, the provider of all fortunes, is governed by Goddess Shailputri and any bad effect of the Moon can be overcome by worshipping this form of Adi Shakti.
+The mount of Goddess Shailputri is bull and because of that she is also known as Vrisharudha. Goddess Shailputri is depicted with two hands. She carries Trident (Trishul) in the right hand and the lotus flower in the left hand. The shrine of Shailputri is situated in Baramulla town in Kashmir.
+55 km from Srinagar, Baramulla is situated on both the banks of Vitasta.  Baramulla is an ancient town sprung around the shrine Vishnu Adi-Varaaha which is located at the lower, i.e. northern, end of the town on the Jhelum near the present Kotitirth. Apart from its strategic importance, being in control of the route leading from the valley to the outside world, especially Hazara, Gilgit, Gandhara, the town enjoyed distinction for being a cultural centre for the Hindus (at Varahakhetra) and the Buddhists at Hushkapora (present Vushkor) were Huien Tsang stayed for two nights. Later he said that some copper plates, on which the proceedings of Kanishka’s council were engraved, lay buried here. The name Varahamula is obviously derived from the Tirtha of the Adi-Varaha, the Boar incarnation. It has been generally referred to as Varahakshetra which includes the shrine and its neighbourhood. Varahamula contracted into Varamul which non-Kashmiri scribes turned into Baramulla.
+Devibal, popularly known as Shailputri or Shaila Devi, is located on the left bank of Vitasta on the National Highway, just 1 km from Baramulla on Baramulla-Uri road at Anapur (present day Khanpur). The shrine is nearly 1000 years old which can be testified from the remains found at the site, placed on the left side under a big Chinar inside main entrance of the shrine. These are six in number and include a unique Shiv Lingam. The main entrance of the shrine is close to the road. One has to step down eight stairs by using staircase to reach the temple premises laid with dressed stones. This beautiful temple is surrounded by four mighty Chinar trees. There are two walnut and 15 popular trees in the premises of this temple comprising about seven kanals of land.  One has to turn right after walking eight yards to reach the main entrance of the sanctum sanctorum and then there is ascend of seven steps to enter.  Within the premises is a holy spring, inside which stands a marble temple like the one at Ksheer Bhawani, with a marble icon of Mother Shailputri facing towards south. The premise is 105 feet long and 47 feet wide and has space for circumbulating (Parikrama), with the floor laid with marbles, around it. Holy spring is sixty feet in length and twenty feet in width having crystal clear waters?   Water oozes on the right hand side top corner of the holy spring. Kashmiri Pandits hold this Ashthapan in high esteem and consider it next to Ksheer Bhawani. One has to step down seven steps to reach Vitasta Ghat. There is one Dharamshala within the temple premises. Security forces are occupying this Dharamshala at present.
+On the other side of the road opposite to Shailputri Shrine there is a big mountain called Bhairav Bal. A small temple has been constructed on the opposite to the main entrance of Shailputri shrine on the foot of this hill near a Shilla.
+The biggest congregation of devotees at the shrine takes place on Ram Navami. People from nearby towns like Sopore, Kupwara, Handwara, Seer Jagir etc. used to come and join the congregation. Koti Tirth (Holiest of Holy Shrine), Bhairav Mandir (amidst an almond orchard at the foot of Gosainteng), Gosainteng (abode of seven springs and a temple sacred to the memory of the heroes of Ramayana, including that of Sita) and Chhatipadshahi (Sixth Sikh Guru has visited this place) are located on the right bank of Vitasta, opposite to Shailputri Shrine. Replica of Shailputri has been constructed by the devotees of the Mother at Munshi Chek, Jammu.
+In dark nights, under the shade of the Chinar, the sacred place present an atmosphere where one becomes one with God and in moonlit nights, devotees experienced something mystic all over in the shrine of Shailputri." />
+    </ScrollView>
+</LinearLayout>

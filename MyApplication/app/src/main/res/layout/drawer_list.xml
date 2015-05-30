@@ -19,5 +19,6 @@
         android:layout_marginLeft="5dp"
         android:layout_weight="1.5"
         android:gravity="left|center_vertical"
-        android:text="TextView" />
+        android:text="TextView"
+        android:layout_gravity="center_vertical" />
 </LinearLayout>
